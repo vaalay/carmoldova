@@ -1,1 +1,1 @@
-#./copie-copie/index.html
+#/index.html
